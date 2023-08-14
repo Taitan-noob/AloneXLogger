@@ -159,7 +159,7 @@ these are the extra features of this bot
 <b>᚛› ᴛᴏᴛᴀʟ ᴍᴇᴍʙᴇʀ ⪼ {d}</b>
 <b>᚛› ᴀᴅᴅᴇᴅ ʙʏ ⪼ {e}</b>
 
-By {f}
+By @{}
 """
     LOG_TEXT_P = """✫ ɴᴇᴡ ᴜꜱᴇʀ :
     
